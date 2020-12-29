@@ -19,7 +19,7 @@ Yamaha YBR<br>
 Honda Titan<br>
 </p>
 <p>
-La solución debe cumplir con los siguientes requisitos:<br>
+<strong>La solución debe cumplir con los siguientes requisitos:</strong><br>
 - Estar programada en Java o Javascript según tu lenguaje de preferencia.<br>
 - Subir la solución a un repositorio Git público para que podamos descargar la solución directamente.<br>
 - Diseñar una solución orientada a objetos y subir al repositorio un diagrama de clases junto con el código.<br>
